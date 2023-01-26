@@ -3,7 +3,7 @@ OCR를 사용한 만화 자동 번역
 
 OCRを使った漫画の自動翻訳
 ## Demo / 데모 / デモサイト
-![](https://web-game-3d.herokuapp.com/) 
+![](https://github.com/sungkuk5420/translate-by-ocr/blob/main/preview.gif/) 
   
 
 ## Getting Started / 어떻게 시작하나요? / 始め方
